@@ -1,0 +1,2 @@
+[Warn][CeiraClient:666][20/06/2021 13:11:22] ceira purinha hein
+[Error][CeiraClient:666][20/06/2021 13:11:22] isso daqui ja e ceira demais
